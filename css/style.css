@@ -1,0 +1,56 @@
+
+
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    height: 60px;
+}
+
+.navbar-img {
+    width: 30%;
+    height: 75%;
+    /* background-image: url(../img/Group.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    margin-top: 1vh;
+}
+.navbar-img img {
+    height: 40px;
+}
+
+.navbar-itens {
+    display: flex;
+    justify-content: space-evenly;
+    width: 20%;
+
+}
+
+.navbar-itens a {
+    text-decoration: none;
+    padding: 5% 2% 0 2%;
+    background-color: gray;
+    color: white;
+    box-sizing: border-box;
+    transition: 0.7s;
+}
+.navbar-itens a:hover {
+    background-color: white;
+    color: black;
+}
+
+.banner {
+    width: 100%;
+    height: 40vh;
+    background-image: url("../img/marcadeivone.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F5F1C1;
+}
+
+.overflow {
+    height: 5000px;
+}
