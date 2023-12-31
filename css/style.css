@@ -51,6 +51,54 @@
     background-color: #F5F1C1;
 }
 
-.overflow {
-    height: 5000px;
+.pos-banner {
+    background-color: #B5B18A;
+}
+
+.fots-em-line {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    justify-content: ;
+    justify-content: space-evenly;
+    background-color: #F5F1C1;
+}
+
+.fots-em-line section {
+    margin: 20px ;
+    height: 500px;
+    width: 300px;    
+    
+}
+
+.foto {
+    border-radius: 10px;
+}
+
+.ft1, .ft2 {
+    height: 90%;
+    background-image: url(/img/fotos/WhatsApp\ Image\ 2023-12-11\ at\ 23.36.48\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+fieldset {
+    margin: 20px auto;
+    width: 96%;
+    max-width: 600px;
+    height: 200px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+legend{
+    padding: 0 5px;
+}
+.fots-em-line section div:nth-of-type(2) {
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #B5B18A;
+    margin: 0;
+    padding: 5px;
+    height: auto;
+    margin: 5px auto;
 }
