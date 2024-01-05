@@ -27,20 +27,21 @@ include "./php/cabecalho.php";
         </section>
 
         <section>
-            <div class="foto ft1"></div>    
+            <div class="foto ft2"></div>    
             <div>
                 <p>
                 askdasdassd asdasd asdasd asd sadasdasd asd sda sdas da sdassdsd sdasdas dasdas dasdasd sadas das dasd asd asd asdas da sd      
                 </p>
             </div>
         </section>
-
-
     </div>
+
+    <br>
+    
     <div class="fots-em-line">
 
         <section>
-            <div class="foto ft1"></div>    
+            <div class="foto ft3"></div>    
             <div>
                 <p>
                 askdasdassd asdasd asdasd asd sadasdasd asd sda sdas da sdassdsd sdasdas dasdas dasdasd sadas das dasd asd asd asdas da sd        
@@ -49,7 +50,7 @@ include "./php/cabecalho.php";
         </section>
 
         <section>
-            <div class="foto ft1"></div>    
+            <div class="foto ft4"></div>    
             <div>
                 <p>
                 askdasdassd asdasd asdasd asd sadasdasd asd sda sdas da sdassdsd sdasdas dasdas dasdasd sadas das dasd asd asd asdas da sd      
@@ -57,6 +58,19 @@ include "./php/cabecalho.php";
             </div>
         </section>
 
+        <section>
+            <div class="foto ft5"></div>    
+            <div>
+                <p>
+                askdasdassd asdasd asdasd asd sadasdasd asd sda sdas da sdassdsd sdasdas dasdas dasdasd sadas das dasd asd asd asdas da sd      
+                </p>
+            </div>
+        </section>
+    </div>
+
+    <br>
+
+    <div class="fots-em-line">
         <section>
             <div class="foto ft1"></div>    
             <div>
@@ -66,8 +80,15 @@ include "./php/cabecalho.php";
             </div>
         </section>
 
-
-    </div>  
+        <section>
+            <div class="foto ft2"></div>    
+            <div>
+                <p>
+                askdasdassd asdasd asdasd asd sadasdasd asd sda sdas da sdassdsd sdasdas dasdas dasdasd sadas das dasd asd asd asdas da sd      
+                </p>
+            </div>
+        </section>
+    </div>
     
 </body>
 </html>
