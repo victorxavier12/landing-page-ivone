@@ -37,7 +37,7 @@ include "./php/cabecalho.php";
     </div>
 
     <br>
-    
+
     <div class="fots-em-line">
 
         <section>
@@ -89,6 +89,6 @@ include "./php/cabecalho.php";
             </div>
         </section>
     </div>
-    
+
 </body>
 </html>
